@@ -2,5 +2,5 @@
 
 Agregar nombre, imagen y desactivar modo desatendido.
 
-![alt text](imag1.png)
+![alt text](img1.png)
 
